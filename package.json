@@ -1,0 +1,24 @@
+{
+  "name": "multi-sig-mern",
+  "version": "1.0.0",
+  "description": "full stack application for minting cardano applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickjavalos/multi-sig-mern.git"
+  },
+  "author": "Erick Avalos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickjavalos/multi-sig-mern/issues"
+  },
+  "homepage": "https://github.com/erickjavalos/multi-sig-mern#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}

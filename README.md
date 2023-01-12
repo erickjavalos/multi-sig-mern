@@ -6,11 +6,17 @@ The intent of this repository is to build a full stack application that will all
 
 ## Table of Contents
 
-*Installation
-*Usage
-*License
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
 
-## Installation
+## Installation and running
+
+Run npm install
+Run npm start
 
 ## Usage
 
